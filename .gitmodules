@@ -1,0 +1,18 @@
+[submodule "sc2207"]
+	path = sc2207
+	url = https://github.com/LEPK02/sc2207
+[submodule "sc1015"]
+	path = sc1015
+	url = https://github.com/LEPK02/sc1015
+[submodule "sc2001"]
+	path = sc2001
+	url = https://github.com/LEPK02/sc2001
+[submodule "sc2006"]
+	path = sc2006
+	url = https://github.com/LEPK02/sc2006
+[submodule "sc2002"]
+	path = sc2002
+	url = https://github.com/LEPK02/sc2002
+[submodule "sc1003"]
+	path = sc1003
+	url = https://github.com/LEPK02/sc1003

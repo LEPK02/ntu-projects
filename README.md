@@ -1,0 +1,6 @@
+- [SC1003 - Introduction to Computational Thinking & Programming (C, Python)](https://github.com/LEPK02/sc1003)
+- [SC1015 - Introduction to Data Science & Artificial Intelligence](https://github.com/LEPK02/sc1015)
+- [SC2001 - Algorithm Design & Analysis](https://github.com/LEPK02/sc2001)
+- [SC2002 - Object Oriented Design & Programming (Java)](https://github.com/LEPK02/sc2002)
+- [SC2006 - Software Engineering](https://github.com/LEPK02/sc2006)
+- [SC2207 - Introduction to Databases (MSSQL)](https://github.com/LEPK02/sc2207)
