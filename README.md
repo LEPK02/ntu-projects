@@ -4,6 +4,6 @@
 - [SC2002 - Object Oriented Design & Programming (Java)](https://github.com/LEPK02/sc2002)
 - [SC2006 - Software Engineering](https://github.com/LEPK02/sc2006)
 - [SC2207 - Introduction to Databases (MSSQL)](https://github.com/LEPK02/sc2207)
-- SC2079 Multidisciplinary Design Project [Source Code](https://github.com/SC2079-Group-35/sc2079) [Project Management](https://github.com/orgs/SC2079-Group-35/projects/1/views/3)
+- SC2079 Multidisciplinary Design Project [Source Code](https://github.com/SC2079-Group-35/sc2079) | [Project Management](https://github.com/orgs/SC2079-Group-35/projects/1/views/3)
 - [SC3020 Database System Principles](https://github.com/LEPK02/sc3020)
 - [SC4020 Data Analytics & Mining](https://github.com/LEPK02/sc4020)
