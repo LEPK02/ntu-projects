@@ -16,3 +16,12 @@
 [submodule "sc1003"]
 	path = sc1003
 	url = https://github.com/LEPK02/sc1003
+[submodule "sc2079"]
+	path = sc2079
+	url = https://github.com/SC2079-Group-35/sc2079
+[submodule "sc3020"]
+	path = sc3020
+	url = https://github.com/LEPK02/sc3020.git
+[submodule "sc4020"]
+	path = sc4020
+	url = https://github.com/LEPK02/sc4020.git
