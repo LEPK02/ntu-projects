@@ -7,3 +7,4 @@
 - SC2079 Multidisciplinary Design Project [Source Code](https://github.com/SC2079-Group-35/sc2079) | [Project Management](https://github.com/orgs/SC2079-Group-35/projects/1/views/3)
 - [SC3020 Database System Principles](https://github.com/LEPK02/sc3020)
 - [SC4020 Data Analytics & Mining](https://github.com/LEPK02/sc4020)
+- NTU CCDS Publicity and Publication Subcommittee - [Graphic Design](https://github.com/LEPK02/ntu-pnp)

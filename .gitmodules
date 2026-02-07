@@ -25,3 +25,6 @@
 [submodule "sc4020"]
 	path = sc4020
 	url = https://github.com/LEPK02/sc4020.git
+[submodule "graphic-design-pnp"]
+	path = graphic-design-pnp
+	url = https://github.com/LEPK02/ntu-pnp.git
